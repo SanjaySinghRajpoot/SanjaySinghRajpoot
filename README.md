@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sanjay Singh Rajpoot</h1>
-<h3 align="center">Coding Bro | C++ Guy | 🙋‍♂️Learner</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sanjay Singh Rajpoot</h1>
+<h3 align="center">Coding Enthusiast | C++ Guy | 🙋‍♂️Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
 
-- 🌱 I’m currently learning **React JS, C++, JavaScript**
+- 🌱 I’m currently learning React JS, C++, JavaScript
 
 - 👨‍💻 All of my projects are available at [sanjaysinghrajpoot.me](sanjaysinghrajpoot.me)
 
 - 📫 How to reach me **iamsanjayrajpoot@gmail.com**
 
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
+👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjayrajpoot22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanjayrajpoot22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjay singh rajpoot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjay singh rajpoot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjaysinghrajpoot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjaysinghrajpoot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
