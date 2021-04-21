@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sanjay Singh Rajpoot</h1>
-<h3 align="center">Open Source Enthusiast | MERN Bro | C++ Guy | 🙋‍♂️Learner | </h3>
+<h3 align="center">Open Source Enthusiast | MERN Bro | C++ Guy | 🙋‍♂️Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
 
