@@ -13,6 +13,10 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
 👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
+### Experience 
+GSOC 2021 - i18n of p5.js website
+Hacktober fest Qualifier 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjayrajpoot22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanjayrajpoot22" height="30" width="40" /></a>
