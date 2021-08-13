@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
 
 - 🌱 I’m currently learning React JS, C++, JavaScript
-
 - 👨‍💻 All of my projects are available at [https://sanjaysinghrajpoot.me/](sanjaysinghrajpoot.me)
-
 - 📫 How to reach me **iamsanjayrajpoot@gmail.com**
+- 💬 Ask me about React, & DevOps topics
+- ⚡ fact Nothing, Just need Coffee.
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
 👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### Experience 
-GSOC 2021 - i18n of p5.js website
+GSOC 2021 - internationalization (i18n) of p5.js website
 The p5.js website has all the features but it lacks Hindi Translation features. In this project I have added the hindi translation to p5.js website. Due to internationalization (i18n), the p5.js website is built from templates that retrieve the text content from data files.The entire site is built with Node JS, handlebars and Grunt. There are three kinds of pages and each works differently: References, examples and other web pages. References Pages are built in English and swapped to other languages using JS on the front-end. For every new page we need to create a key value pair in the hi.yml file. A single JS template is also needed. Examples pages are built from templates with handlebars, while examples are stored in JS files. To implement i18n, new templates were created specifically for Hindi language, so that Examples were rendered properly. 
 
 <h3 align="left">Connect with me:</h3>
