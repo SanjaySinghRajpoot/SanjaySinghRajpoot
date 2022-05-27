@@ -15,7 +15,11 @@
 
 ### Experience 
 GSOC 2021 - internationalization (i18n) of p5.js website
-The p5.js website has all the features but it lacks Hindi Translation features. In this project I have added the hindi translation to p5.js website. Due to internationalization (i18n), the p5.js website is built from templates that retrieve the text content from data files.The entire site is built with Node JS, handlebars and Grunt. There are three kinds of pages and each works differently: References, examples and other web pages. References Pages are built in English and swapped to other languages using JS on the front-end. For every new page we need to create a key value pair in the hi.yml file. A single JS template is also needed. Examples pages are built from templates with handlebars, while examples are stored in JS files. To implement i18n, new templates were created specifically for Hindi language, so that Examples were rendered properly. 
+The p5.js website has all the features but it lacks Hindi Translation features. In this project I have added the hindi translation to p5.js website. Due to internationalization (i18n), the p5.js website is built from templates that retrieve the text content from data files.The entire site is built with Node JS, handlebars and Grunt. There are three kinds of pages and each works differently: References, examples and other web pages. References Pages are built in English and swapped to other languages using JS on the front-end. For every new page we need to create a key value pair in the hi.yml file. A single JS template is also needed. Examples pages are built from templates with handlebars, while examples are stored in JS files. 
+
+
+Frontend Developer Intern - Worked a a frontend develpoer at Disecto. Implemented Password Reset feature, User Activation and 2-factor Authentication • Worked on React Js as the frontend framework. Used Redux for state management, Axios for requests
+and Chakra UI for styling• Updated Token-based authentication to cookie-based login along with the team. Using cookie storage to access the refresh token to make it more secure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
