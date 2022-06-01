@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sanjay Singh Rajpoot</h1>
+<h1 align="center">Hi, I'm Sanjay Singh Rajpoot</h1>
 <h3 align="center">Open Source Enthusiast | MERN Bro | C++ Guy | 🙋‍♂️Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
@@ -11,7 +11,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
 
 ### Experience 
 GSOC 2021 - internationalization (i18n) of p5.js website
