@@ -14,11 +14,14 @@
 👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
 
 ### Experience 
-GSOC 2021 - internationalization (i18n) of p5.js website
+
+Linux Foundation - Moja Global 
+Developed CI/CD to push FLINT Cloud images to Azure Container Registry(ACR). Added additional endpoints in FLINT Cloud for preprocessing file uploads and a health check endpoint. Added a new feature to modify field table data and save these chanegs to a new file. Contributed to setting up FLINT.Cloud APIs on Kubernetes Cluster and tested the infrastructure on the Azure
+Container Registry.
+
+GSOC 2021 - Internationalization (i18n) of p5.js website
 The p5.js website has all the features but it lacks Hindi Translation features. In this project I have added the translation to p5.js website. Due to internationalization (i18n), the p5.js website is built from templates that retrieve the text content from data files.The entire site is built with Node JS, handlebars and Grunt. There are three kinds of pages and each works differently: References, examples and other web pages. References Pages are built in English and swapped to other languages using JS on the front-end. For every new page we need to create a key value pair in the hi.yml file.
 
-Frontend Developer Intern - Worked a a frontend develpoer at Disecto. Implemented Password Reset feature, User Activation and 2-factor Authentication • Worked on React Js as the frontend framework. Used Redux for state management, Axios for requests
-and Chakra UI for styling• Updated Token-based authentication to cookie-based login along with the team. Using cookie storage to access the refresh token to make it more secure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
