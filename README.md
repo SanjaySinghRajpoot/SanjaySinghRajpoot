@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanjay Singh Rajpoot</h1>
-<h3 align="center">Open Source Enthusiast | MERN Bro | C++ Guy | 🙋‍♂️Learner </h3>
+<h3 align="center">Open Source Enthusiast | 🙋‍♂️ Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
 
@@ -12,6 +12,12 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
 👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
+
+### Technical Skills
+- Languages: JavaScript, C++, Python, Solidity, MySQL, HTML, CSS
+- Frameworks: React Js, Node Js, Django, Flask, Express, Jest
+- Developer Tools: Git, Docker, Github Actions, TravisCI, VS Code
+- Database/Cloud: MongoDB, PostgreSQL, Terraform, Kubernetes, Azure Clo
 
 ### Experience 
 
