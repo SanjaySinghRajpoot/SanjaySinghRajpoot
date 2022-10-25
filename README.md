@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysinghrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysinghrajpoot" /> </p>
 
 - 🌱 I’m currently learning DevOps and Blockchain Development
-- 👨‍💻 All of my blogs are available at [https://sanjayrajpoot.hashnode.dev/](Sanjay blog)
+- 👨‍💻 All of my blogs are available at [https://sanjayrajpoot.hashnode.dev] (Sanjay blog)
 - 📫 How to reach me **iamsanjayrajpoot@gmail.com**
 - 💬 Ask me about React, & DevOps topics
 - ⚡ fact Nothing, Just need Coffee.
