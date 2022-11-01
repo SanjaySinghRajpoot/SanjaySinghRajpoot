@@ -14,10 +14,10 @@
 👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
 
 ### Technical Skills
-- Languages: JavaScript, C++, Python, Solidity, MySQL, HTML, CSS
+- Languages: JavaScript,Golang, C++, Python, MySQL, HTML, CSS
 - Frameworks: React Js, Node Js, Django, Flask, Express, Jest
 - Developer Tools: Git, Docker, Github Actions, TravisCI, VS Code
-- Database/Cloud: MongoDB, PostgreSQL, Terraform, Kubernetes, Azure Clo
+- Database/Cloud: MongoDB, PostgreSQL, Terraform, Kubernetes, Azure Cloud, AWS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaysinghrajpoot) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SanjayRajpoot22) 
