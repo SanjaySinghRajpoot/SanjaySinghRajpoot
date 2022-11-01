@@ -19,12 +19,8 @@
 - Developer Tools: Git, Docker, Github Actions, TravisCI, VS Code
 - Database/Cloud: MongoDB, PostgreSQL, Terraform, Kubernetes, Azure Clo
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanjayrajpoot22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sanjayrajpoot22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjaysinghrajpoot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjaysinghrajpoot" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaysinghrajpoot) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SanjayRajpoot22) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SanjaySinghRajpoot&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -33,5 +29,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SanjaySinghRajpoot&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysinghrajpoot&show_icons=true&locale=en" alt="sanjaysinghrajpoot" /></p>
