@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning DevOps and Blockchain Development
 - 👨‍💻 All of my blogs are available at [https://sanjayrajpoot.hashnode.dev/]
 - 📫 How to reach me **iamsanjayrajpoot@gmail.com**
-- 💬 Ask me about React, & DevOps topics
+- 💬 Ask me about System Design & DevOps topics
 - ⚡ fact Nothing, Just need Coffee.
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Eectronics and Communication Engineering.</br>
+🎓 I’m an Open-Source enthusiast & senior year pursuing my Bachelors in Eectronics and Communication Engineering.</br>
 👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
 
 ### Technical Skills
