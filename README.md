@@ -11,11 +11,11 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & final year pursuing my Bachelors in Eectronics and Communication Engineering.</br>
-👨‍💻  I am passionate about Web Dev, DevOps & Blockchain Development I enjoy learning new things. </br>
+👨‍💻  I am passionate about Web Dev and DevOps, I enjoy learning new things. </br>
 
 ### Technical Skills
 - Languages: C++, Golang, MySQL, Typescript/JavaScript, Python
-- Frameworks: Gin, Echo, Node Js, Express, Flask, FastAPI
+- Frameworks: Django, Gin, Echo, Node Js, Express, Flask, FastAPI
 - Developer Tools: Git, Docker, Github Actions, Cloud Watch
 - Database/Cloud: PostgreSQL, Terraform, Kubernetes, AWS, RDS
 
