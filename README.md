@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sanjay Singh Rajpoot 👋</h1>
-<h3 align="center">Software Engineer (AI & Backend) | Open Source Enthusiast | Lifelong Learner ☕</h3>
+<h3 align="center">Software Engineer (AI) | Open Source Enthusiast | Lifelong Learner ☕</h3>
 
-- 🧠 Currently building **AI-driven systems** at **Exly (YC W19)** using **Python, FastAPI, LangChain & AWS**.  
-- 🚀 Previously at **Mable AI**, designed **notification systems handling 500K+ monthly transactions** with a 95%+ delivery rate.  
+- 🧠 Currently building **AI-driven systems** at **Exly (YC W19)** 
+- 🚀 Previously at **Mable AI**, designed **notification systems handling 50K+ monthly transactions** with a 95%+ delivery rate.  
 
 🏆 **Open Source Achievements:**  
 - 🎓 **Google Summer of Code 2021** @ [Processing Foundation](https://processingfoundation.org/)  
